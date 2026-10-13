@@ -16,3 +16,5 @@ This repository contains my Python learning journey and beginner projects.
 1. Install Python.
 2. Open the project in VS Code.
 3. Run the Python file using:
+
+python expense_tracket.py
