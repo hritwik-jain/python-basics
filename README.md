@@ -2,19 +2,24 @@
 
 This repository contains my Python learning journey and beginner projects.
 
-## Topics
-- Variables and data types
-- Conditions and loops
+## Topics Covered
+- Variables and Data Types
+- Conditional Statements
+- Loops
 - Functions
-- Lists and dictionaries
-- Exception handling
+- Lists and Dictionaries
+- Exception Handling
 
 ## Projects
-- Student Expense Tracker
+### Student Expense Tracker
+A beginner Python project to record expenses, calculate total spending, filter expenses by category, and check the remaining budget.
 
 ## How to Run
 1. Install Python.
-2. Open the project in VS Code.
-3. Run the Python file using:
+2. Download or clone this repository.
+3. Open the project folder in VS Code.
+4. Run the Python file:
 
-python expense_tracket.py
+```bash
+python student_expense_tracker.py
+```
