@@ -1,6 +1,5 @@
-# Python Basics
-
-This repository contains my Python learning journey and beginner projects.
+# Python Basics 
+This repository documents my journey of learning Python programming.
 
 ## Topics Covered
 - Variables and Data Types
@@ -10,16 +9,33 @@ This repository contains my Python learning journey and beginner projects.
 - Lists and Dictionaries
 - Exception Handling
 
-## Projects
+##  Projects
+
 ### Student Expense Tracker
-A beginner Python project to record expenses, calculate total spending, filter expenses by category, and check the remaining budget.
+A beginner-friendly Python program to record and manage student expenses.
+
+**Features:**
+- Add new expenses
+- View all expenses
+- Calculate total spending
+- Filter expenses by category
+- Check remaining budget
+- Find the highest expense
+
+## Technologies
+- Python
+- Visual Studio Code
 
 ## How to Run
-1. Install Python.
-2. Download or clone this repository.
-3. Open the project folder in VS Code.
-4. Run the Python file:
+1. Install Python
+2. Download this repository
+3. Open the project folder in VS Code
+4. Run the following command in the terminal
 
 ```bash
 python expense_tracker.py
 ```
+
+## 🎯 Goal
+
+To strengthen my Python fundamentals through hands-on practice and small projects.
