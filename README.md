@@ -36,6 +36,6 @@ A beginner-friendly Python program to record and manage student expenses.
 python expense_tracker.py
 ```
 
-## 🎯 Goal
+## Goal
 
 To strengthen my Python fundamentals through hands-on practice and small projects.
