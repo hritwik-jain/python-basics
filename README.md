@@ -21,5 +21,5 @@ A beginner Python project to record expenses, calculate total spending, filter e
 4. Run the Python file:
 
 ```bash
-python student_expense_tracker.py
+python expense_tracker.py
 ```
